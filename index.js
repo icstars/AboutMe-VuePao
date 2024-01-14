@@ -102,61 +102,61 @@ console.log(num3) // prints to the console
 console.log(Boolean(-1))
  
  
-let sentence8 = `Hi, my name is ${name} and I am ${num3}`
+// let sentence8 = `Hi, my name is ${name} and I am ${num3}`
  
  
  
  
-// what is an array ? - a list of data
-let emptyArr = []
-console.log(emptyArr);
-const lengthOfEmptyArray = emptyArr.length;
-console.log(lengthOfEmptyArray);
+// // what is an array ? - a list of data
+// let emptyArr = []
+// console.log(emptyArr);
+// const lengthOfEmptyArray = emptyArr.length;
+// console.log(lengthOfEmptyArray);
  
-const mixArr = [1, "Collin"]
-console.log(mixArr)
-const name4 = "Lucycan";
+// const mixArr = [1, "Collin"]
+// console.log(mixArr)
+// const name4 = "Lucycan";
  
-const nameArr = ["Lucycan", "Collin", "Mark"];
-console.log(nameArr);
-const lengthOfNameArr = nameArr.length;
-console.log(lengthOfNameArr);
+// const nameArr = ["Lucycan", "Collin", "Mark"];
+// console.log(nameArr);
+// const lengthOfNameArr = nameArr.length;
+// console.log(lengthOfNameArr);
  
-const hello = `Hi, my name is ${nameArr[1]}.`;
-console.log(nameArr[1])
+// const hello = `Hi, my name is ${nameArr[1]}.`;
+// console.log(nameArr[1])
  
  
-// submitting form
-nameArr.push("Cortez");
-nameArr.push("Romeo")
-console.log(nameArr);
+// // submitting form
+// nameArr.push("Cortez");
+// nameArr.push("Romeo")
+// console.log(nameArr);
  
-// grabs the most recent submission so it will grab "Romeo"
-console.log(nameArr.pop());
-let arr = []
+// // grabs the most recent submission so it will grab "Romeo"
+// console.log(nameArr.pop());
+// let arr = []
  
-//what is an array?
+// //what is an array?
  
-const emptyArr = [];
-console.log(emptyArr);
-const lengthOfEmptyArry = emptyArr.length;
-console.log(lengthOfEmptyArry);
+// const emptyArr = [];
+// console.log(emptyArr);
+// const lengthOfEmptyArry = emptyArr.length;
+// console.log(lengthOfEmptyArry);
  
-const mixArr = [1, Collin]
+// const mixArr = [1, Collin]
  
-const nameArr = ["Lucycan", "Collin", "Mark"]
-console.log(nameArr)
-const lengthOfNameArry = nameArr.length;
-console.log(lengthOfNameArr)
+// const nameArr = ["Lucycan", "Collin", "Mark"]
+// console.log(nameArr)
+// const lengthOfNameArry = nameArr.length;
+// console.log(lengthOfNameArr)
  
-const hello = `Hi my name is ${nameArr[1]}`
-console.log(Hello);
+// const hello = `Hi my name is ${nameArr[1]}`
+// console.log(Hello);
  
-console.log(nameAAr[1]);
+// console.log(nameAAr[1]);
  
-nameArr.push("Cortez");
-nameArr.push("Remeo");
-console.log(nameArr);
+// nameArr.push("Cortez");
+// nameArr.push("Remeo");
+// console.log(nameArr);
  
-console.log(nameArr.pop())
+// console.log(nameArr.pop())
 
